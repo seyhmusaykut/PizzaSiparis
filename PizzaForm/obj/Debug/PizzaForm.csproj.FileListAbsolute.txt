@@ -1,0 +1,10 @@
+C:\Users\Seyhmus\source\repos\PizzaForm\PizzaForm\bin\Debug\PizzaForm.exe.config
+C:\Users\Seyhmus\source\repos\PizzaForm\PizzaForm\bin\Debug\PizzaForm.exe
+C:\Users\Seyhmus\source\repos\PizzaForm\PizzaForm\bin\Debug\PizzaForm.pdb
+C:\Users\Seyhmus\source\repos\PizzaForm\PizzaForm\obj\Debug\PizzaForm.csproj.AssemblyReference.cache
+C:\Users\Seyhmus\source\repos\PizzaForm\PizzaForm\obj\Debug\PizzaForm.Form1.resources
+C:\Users\Seyhmus\source\repos\PizzaForm\PizzaForm\obj\Debug\PizzaForm.Properties.Resources.resources
+C:\Users\Seyhmus\source\repos\PizzaForm\PizzaForm\obj\Debug\PizzaForm.csproj.GenerateResource.cache
+C:\Users\Seyhmus\source\repos\PizzaForm\PizzaForm\obj\Debug\PizzaForm.csproj.CoreCompileInputs.cache
+C:\Users\Seyhmus\source\repos\PizzaForm\PizzaForm\obj\Debug\PizzaForm.exe
+C:\Users\Seyhmus\source\repos\PizzaForm\PizzaForm\obj\Debug\PizzaForm.pdb
